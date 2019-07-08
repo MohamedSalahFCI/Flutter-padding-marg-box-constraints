@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/padding_marg_boxconstraints.iml" filepath="$PROJECT_DIR$/padding_marg_boxconstraints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/padding_marg_boxconstraints_android.iml" filepath="$PROJECT_DIR$/android/padding_marg_boxconstraints_android.iml" />
+    </modules>
+  </component>
+</project>
